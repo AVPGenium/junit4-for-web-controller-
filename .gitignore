@@ -1,0 +1,3 @@
+junit test/.gradle/
+junit test/build/
+junit test/.idea/
